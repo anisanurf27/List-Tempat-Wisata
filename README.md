@@ -1,9 +1,22 @@
-*Tugas List Tempat Wisata*
+# Aplikasi List Tempat Wisata Kota Semarang
 
-Mobile Programming
-Nama  : ANISA NUR FADHILAH
-Kelas : IK-2A
-NIM   : 3.34.21.0.05
+Location : Semarang City, Central Java
+
+..
+
+
+Create by :
+
+Nama    : Anisa Nur Fadhilah
+
+NIM     : 3.34.21.0.05
+
+Kelas  : IK-2A
+
+..
+
+
+# Image View This Aplication
 
 <img width="209" alt="Screenshot_20230112_225637" src="https://user-images.githubusercontent.com/116789509/212121826-10dad4ca-5d81-4eb7-9b5d-070a5c9e89c0.png">
 <img width="207" alt="Screenshot_20230112_230202" src="https://user-images.githubusercontent.com/116789509/212121849-10b92556-9317-48bd-9cb1-0474c2c2b314.png">
